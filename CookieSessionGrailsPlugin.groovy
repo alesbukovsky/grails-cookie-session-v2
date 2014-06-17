@@ -30,7 +30,7 @@ import org.codehaus.groovy.grails.orm.hibernate.ConfigurableLocalSessionFactoryB
 class CookieSessionGrailsPlugin {
     
     def groupId = "ducktape"
-    def version = "2.0.16" // original plugin version: 2.0.15
+    def version = "2.0.15"
 
     def grailsVersion = "1.2.4 > *"
     def title = "Cookie Session Plugin" // Headline display name of the plugin
